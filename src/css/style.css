@@ -28,7 +28,7 @@
 }
 
 .cabecalho .titulo:hover {
-    color: #1ED760;
+    color: rgb(231, 14, 177);
 }
 
 .cabecalho .navegacao .menu {
@@ -37,4 +37,15 @@
 
 .cabecalho .navegacao .menu .item {
     margin: 10px;
+}
+
+.cabecalho .navegacao .menu .item a{
+    padding: 20px;
+    transition: 0.5s ease-out;
+    border-radius: 5px;
+}
+
+.cabecalho .navegacao .menu .item a:hover{
+    background-color: rgb(231, 14, 177);
+    color: white;
 }
