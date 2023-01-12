@@ -1,4 +1,40 @@
 .cabecalho .logo .imagem {
-    width: 100px;
-    border-radius: 25px;
+    width: 102px;
+    height: 102px;
+    border-radius: 50%;
+}
+
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 0px;
+    max-width: 1170px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+
+.cabecalho .logo {
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+}
+
+.cabecalho .titulo {
+    margin-left: 10px;
+    font-size: 20px;
+    transition: 0.3s ease-in-out;
+    font-weight: bold;
+}
+
+.cabecalho .titulo:hover {
+    color: #1ED760;
+}
+
+.cabecalho .navegacao .menu {
+    display: flex;
+}
+
+.cabecalho .navegacao .menu .item {
+    margin: 10px;
 }
