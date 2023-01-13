@@ -1,6 +1,6 @@
 .cabecalho .logo .imagem {
-    width: 120px;
-    height: 120px;
+    width: 130px;
+    height: 130px;
     border-radius: 50%;
 }
 
@@ -89,4 +89,8 @@
     color: #fff;
     text-transform: uppercase;
     font-size: calc(1em + 1vw);
+}
+
+.conteudo-principal .paineis .seta{
+    background-image: url('../img/seta.png');
 }
