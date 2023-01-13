@@ -141,7 +141,71 @@
     color: #fff;
 }
 
-.rodape {
+/* .contato {
     padding: 80px 0 20px 0;
+} */
+/* 
+.contato .navegacao .logo {
+    align-items: center;
+    display: flex;
+} */
+
+.contato .navegacao .logo .imagem {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
 }
 
+.contato .navegacao .logo .texto {
+    font-size: 25px;
+    text-align: center;
+    margin: 80px 0 30px 0;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+.contato .navegacao .logo .contato-email{
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* .fa-solid,.fa-envelope{
+    width: 30px;
+    height: 30px;
+    align-items: center;
+    text-align: center;
+
+} */
+
+
+
+.contato .navegacao .redes-sociais .fa-facebook,.fa-instagram,.fa-twitter,.fa-youtube{
+    width: 50px;
+    height: 50px;
+    margin: 15px;
+}
+
+.contato .navegacao .redes-sociais{
+    align-items:center;
+    text-align: center;
+}
+
+.rodape .navegacao .copyright {
+    font-weight: 300;
+    font-size: 17px;
+    background-color: black;
+    color: #fff;
+    padding: 20px 0 20px 0;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.rodape .navegacao .copyright .fa-regular,.fa-copyright{
+    color: #fff;
+}
+
+
+.rodape {
+    color: black;
+}
