@@ -111,3 +111,37 @@
 .conteudo-principal .paineis .seta.btn-avancar {
     right: 20px;
 }
+.quem-somos {
+    background-color: #00BFFF;
+}
+
+.quem-somos .conteudo{
+    display: flex;
+    align-items: center;
+    padding: 0 10%;
+}
+
+.quem-somos .conteudo .informacoes {
+    width: 45%;
+}
+
+.quem-somos .conteudo .imagem {
+    width: 55%;
+}
+
+.quem-somos .conteudo .informacoes .titulo{
+    font-size: 35px;
+    color: #fff;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
+
+.quem-somos .conteudo .informacoes .texto{
+    font-size: 17px;
+    color: #fff;
+}
+
+.rodape {
+    padding: 80px 0 20px 0;
+}
+
