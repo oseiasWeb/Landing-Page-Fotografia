@@ -56,4 +56,9 @@
         height: 30px;
         transition: 0.3s ease-in-out;
     }
+
+    .rodape .navegacao .logo, .rodape .navegacao .redes-sociais {
+        width: 100%;
+        justify-content: center;
+    }    
 }

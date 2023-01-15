@@ -1,6 +1,6 @@
 .logo .imagem {
-    width: 100px;
-    height: 70px;
+    width: 110px;
+    height: 80px;
 }
 
 /* body {
@@ -30,7 +30,7 @@
     font-weight: bold;
 }
 
-.cabecalho .titulo:hover {
+.logo .titulo:hover {
     color: #00BFFF;
 }
 
@@ -181,6 +181,6 @@
 }
 
 .rodape .copyright {
-    margin-top: 90px;
+    margin: 90px 0 20px 0;
     text-align: center;
 }
