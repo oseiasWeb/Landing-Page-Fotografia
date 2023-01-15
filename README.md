@@ -7,9 +7,11 @@
     <li>HTML ✏️</li>
     <li>CSS 🎨</li>
     <li>JS 💪</li>
-</ul>
+</ul><br>
 
-
+<h2 align="center">*** Link da página ***</h2>
+<p>Abaixo temos o link da página para visualização e testes:</p>
+🔗 <a href="https://oseiasweb.github.io/Landing-Page-Fotografia/" target="_blank">Agência Fotográfica</a><br><br>
 
 <h2 align="center">*** Status Projeto ***</h2>
 <p align="center">
