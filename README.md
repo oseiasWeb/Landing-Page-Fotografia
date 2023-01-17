@@ -11,6 +11,10 @@
     </ul><br>
 </div>
 
+<h2 align="center">🤔 Como Utilizar</h2>
+ <p>A página apresenta de forma dinâmica os projetos, descrição e os contatos/redes. Abaixo temos um pequeno gif com a apresentação do sistema:</p><br>
+<img align="center" src="./src/img/page.gif" alt="Gif sistema" title="Gif sistema"><p><i>Gif - funcionalidades do sistema</i></p>
+
 <h2 align="center">🔗 Link da página</h2>
 <p>Logo abaixo temos o link da página para visualização e testes:</p>
 👉 <a href="https://oseiasweb.github.io/Landing-Page-Fotografia/" target="_blank">Agência Fotográfica</a><br><br>
