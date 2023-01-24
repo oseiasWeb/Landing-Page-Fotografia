@@ -1,5 +1,4 @@
-<h1 align="center">Landing Page - Agência Fotográfica 📸</h1>
-
+<h1 align="center">🎞 Agência Fotográfica 📸</h1>
 <p>Projeto baseado em uma agência de fotografia onde são apresentados os projetos, resumo da empresa e o contato</p>
 
 <div align="center" valign="top"><br>
@@ -12,7 +11,7 @@
 </div>
 
 <h2 align="center">🤔 Como Utilizar</h2>
- <p>A página apresenta de forma dinâmica os projetos, descrição e os contatos/redes. Abaixo temos um pequeno gif com a apresentação do sistema:</p><br>
+ <p>A página apresenta de forma dinâmica os projetos, descrição e os contatos. Abaixo temos um pequeno gif com a apresentação do sistema:</p><br>
 <img align="center" src="./src/img/page.gif" alt="Gif sistema" title="Gif sistema"><p><i>Gif - funcionalidades do sistema</i></p>
 
 <h2 align="center">🔗 Link da página</h2>
